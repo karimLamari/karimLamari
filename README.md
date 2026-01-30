@@ -19,7 +19,7 @@
 
 At 26, I made a career change, leaving the restaurant industry to pursue my true passion: **web development**.
 
-Currently completing the **Full Stack Web Developer program at OpenClassrooms**, I focus on creating modern, high-performance, and user-friendly web applications.
+Graduate of the **Full Stack Web Developer program at OpenClassrooms**, I focus on creating modern, high-performance, and user-friendly web applications.
 
 My experience as a restaurant manager taught me **attention to detail**, **working under pressure**, and **delivering exceptional experiences** — skills I now apply to development.
 
@@ -118,7 +118,7 @@ I combine an **Agile approach** to iterate quickly with a strong focus on **user
 2017-2019  📚 Computer Science studies at Université Paul Sabatier
 2022-2025  🍽️ Restaurant Manager - learned leadership & attention to detail
 2024       💻 Freelance: Built full website with admin dashboard for a sushi restaurant
-2025       🎓 Full Stack Web Developer training at OpenClassrooms
+2025       🎓 Graduated as Full Stack Web Developer from OpenClassrooms
 ```
 
 ---
