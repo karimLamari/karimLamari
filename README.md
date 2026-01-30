@@ -58,13 +58,21 @@ My experience as a restaurant manager taught me **attention to detail**, **worki
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">BIMI SUSHI</h3>
+      <h3 align="center">🍣 BIMI SUSHI</h3>
       <p align="center">
-        A sushi restaurant website with online ordering and admin dashboard
+        <b>Full restaurant management system in production</b>
+        <br>Online ordering • Admin dashboard • Real-time updates
         <br><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <br><br>
+        <a href="https://bimisushi31.com">
+          <img src="https://img.shields.io/badge/Live_Site-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white"/>
+        </a>
+        <a href="https://github.com/karimLamari/bimi-sushi">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="50%">
